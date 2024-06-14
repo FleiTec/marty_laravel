@@ -1,6 +1,8 @@
 {
     "name": "fleitec/marty_laravel",
     "description": "Marty Terminal for Laravel",
+    "type":"library",
+    "license":"MIT",
     "require": {
         "php": "^8.1"
     },
